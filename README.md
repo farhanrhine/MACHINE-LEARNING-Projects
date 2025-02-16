@@ -1,2 +1,2 @@
 # MACHINE-LEARNING-Projects
-hey, its farhan ml repo
+Hey, its Farhan repo
